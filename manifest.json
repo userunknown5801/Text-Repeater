@@ -1,8 +1,10 @@
 {
-  "name": "ConverterApp",
-  "short_name": "Converter",
-  "start_url": "./index.html",
+  "name": "Universal HTML App",
+  "short_name": "HTMLApp",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0b0f13",
   "theme_color": "#0b0f13",
+  "orientation": "portrait",
+  "icons": []
 }
